@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulius88
-- 👀 I’m interested in Front-End and Back-End
-- 🌱 I’m currently learning Front-End and Back-End
+- 👀 I’m interested in FullStack
+- 🌱 I’m currently learning FullStack
 - 💞️ I’m looking to collaborate on Front-End and Back-End
 - 📫 How to reach me : 6sq372@gmail.com
 
